@@ -36,8 +36,13 @@ Table of Contents
 ## 在研标准的编制
 
 3项在研标准的编制：
-IEEE P2807《知识图谱架构》（Framework of Knowledge Graphs）、
-IEEE P2807.1《知识图谱技术要求及测试评估规范》(Standard for Technical Requirements and Evaluating Knowledge Graphs)
-IEEE P2807.2《金融服务领域知识图谱应用指南》(Guide for Application of Knowledge Graphs for Financial Services)
+
+1. IEEE P2807《知识图谱架构》（Framework of Knowledge Graphs）
+
+
+2. IEEE P2807.1《知识图谱技术要求及测试评估规范》(Standard for Technical Requirements and Evaluating Knowledge Graphs)
+
+
+3. IEEE P2807.2《金融服务领域知识图谱应用指南》(Guide for Application of Knowledge Graphs for Financial Services)
 
 
