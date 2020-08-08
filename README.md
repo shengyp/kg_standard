@@ -18,20 +18,14 @@ Table of Contents
 
 
 ## 知识图谱标准化白皮书
-1. Zhuobing Han, Xiaohong Li, Hongtao Liu, Zhenchang Xing, Zhiyong Feng. [DeepWeak: reasoning common software weaknesses via knowledge graph embedding](https://ieeexplore.ieee.org/abstract/document/8330232). SANER 2018. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8330232)
+1. [知识图谱标准化白皮书](./report/知识图谱标准化白皮书_2019.pdf). 2019版.
 
 
 
 ## 知识图谱研究报告
 2. Hongwei Li, Sirui Li, Jiamou Sun, Zhenchang Xing, Xin Peng, Mingwei Liu, Xuejiao Zhao. [Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph](https://ieeexplore.ieee.org/document/8530028). CSME 2018. [[Paper]](https://ieeexplore.ieee.org/document/8530028)
 
-
-3. Xuejiao Zhao, Zhenchang Xing, Muhammad Ashad Kabir, Naoya Sawada, Jing Li, Shang-Wei Lin. [HDSKG: harvesting domain specific knowledge graph from content of webpages](https://ieeexplore.ieee.org/document/7884609/authors#authors). SANER 2017. [[Paper]](https://ieeexplore.ieee.org/document/7884609/authors#authors)
-
-
-4. Deheng Ye, Zhenchang Xing, Nachiket Kapre. [The structure and dynamics of knowledge network in domain-specific Q&A sites: a case study of stack overflow](https://link.springer.com/content/pdf/10.1007/s10664-016-9430-z.pdf). Empirical Software Engineering 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10664-016-9430-z.pdf)
-
-
+1. [人工智能之知识图谱 (Research Report of Knowledge Graph)](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. 
 
 
 ## 在研标准的编制
