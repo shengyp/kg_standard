@@ -23,9 +23,17 @@ Table of Contents
 
 
 ## 知识图谱研究报告
-2. Hongwei Li, Sirui Li, Jiamou Sun, Zhenchang Xing, Xin Peng, Mingwei Liu, Xuejiao Zhao. [Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph](https://ieeexplore.ieee.org/document/8530028). CSME 2018. [[Paper]](https://ieeexplore.ieee.org/document/8530028)
+1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期.
 
-1. [人工智能之知识图谱 (Research Report of Knowledge Graph)](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. 
+
+2. [2020年中国知识图谱行业研究报告](./report/2020年中国知识图谱行业研究报告.pdf). 2020年第1期.
+
+
+3. [人工智能之知识图谱 (Research Report of Knowledge Graph)](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. 
+
+
+4. [知识图谱发展报告](./report/KGDevReport2018.pdf). 2018.08. 
+
 
 
 ## 在研标准的编制
