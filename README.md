@@ -18,7 +18,10 @@ Table of Contents
 
 
 ## 知识图谱标准化白皮书
-1. [知识图谱标准化白皮书](./report/知识图谱标准化白皮书_2019.pdf). 2019版.
+1. [2020年面向人工智能新基建的知识图谱行业白皮书](https://www.iresearch.com.cn/Detail/report?id=3692&isfree=0). 2020版.
+
+
+2. [知识图谱标准化白皮书](./report/知识图谱标准化白皮书_2019.pdf). 2019版.
 
 
 
