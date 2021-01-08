@@ -38,6 +38,9 @@ Table of Contents
 4. [知识图谱发展报告](./report/KGDevReport2018.pdf). 2018.08. 
 
 
+[成功召开 | 第一届知识图谱产业发展论坛](https://mp.weixin.qq.com/s/Cz7aOnjYJiWhzQuFZSB9kg)
+
+
 
 ## 在研标准的编制
 
