@@ -38,7 +38,13 @@ Table of Contents
 4. [知识图谱发展报告](./report/KGDevReport2018.pdf). 2018.08. 
 
 
+
 [成功召开 | 第一届知识图谱产业发展论坛](https://mp.weixin.qq.com/s/Cz7aOnjYJiWhzQuFZSB9kg)
+
+
+[建立知识图谱领域标准体系！张钹院士、李涓子教授等人共论知识图谱产业发展](https://mp.weixin.qq.com/s/q4gG-18mKJIYLeUTUR9CSQ)
+
+
 
 
 
