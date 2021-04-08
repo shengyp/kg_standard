@@ -45,7 +45,9 @@ Table of Contents
 [建立知识图谱领域标准体系！张钹院士、李涓子教授等人共论知识图谱产业发展](https://mp.weixin.qq.com/s/q4gG-18mKJIYLeUTUR9CSQ)
 
 
+[柯基数据积极参与IEEEP2959、P2807知识图谱标准化工作](https://mp.weixin.qq.com/s/z63uUU-_vt88dJxJwVDwZQ)
 
+​
 
 
 ## 在研标准的编制
