@@ -48,6 +48,8 @@ Table of Contents
 [柯基数据积极参与IEEEP2959、P2807知识图谱标准化工作](https://mp.weixin.qq.com/s/z63uUU-_vt88dJxJwVDwZQ)
 
 ​
+[国家标准《信息技术 人工智能 知识图谱技术框架》第三次编辑会成功召开](https://mp.weixin.qq.com/s/1VD1lGZTy4pGlyyt_UD18A)
+
 
 
 ## 在研标准的编制
