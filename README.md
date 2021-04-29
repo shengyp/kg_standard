@@ -51,6 +51,10 @@ Table of Contents
 [国家标准《信息技术 人工智能 知识图谱技术框架》第三次编辑会成功召开](https://mp.weixin.qq.com/s/1VD1lGZTy4pGlyyt_UD18A)
 
 
+[知识图谱产品认证（第二批）正式启动](https://mp.weixin.qq.com/s/EeDnhtITIjamdTIXGETNhQ)
+
+
+
 
 ## 在研标准的编制
 
