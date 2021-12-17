@@ -54,6 +54,9 @@ Table of Contents
 [知识图谱产品认证（第二批）正式启动](https://mp.weixin.qq.com/s/EeDnhtITIjamdTIXGETNhQ)
 
 
+[2021知识图谱产品认证答疑会成功召开](https://mp.weixin.qq.com/s/ImrzM3MAcLnt3hqXl_3Mnw)
+
+
 
 
 ## 在研标准的编制
@@ -70,5 +73,10 @@ Table of Contents
 
 
 3. IEEE P2807.2《金融服务领域知识图谱应用指南》(Guide for Application of Knowledge Graphs for Financial Services)
+
+
+[重磅发布| 《知识图谱选型与实施指南》](https://mp.weixin.qq.com/s/rIcskc5MBadfVWQ5GFy16g)
+
+
 
 
