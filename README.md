@@ -75,6 +75,9 @@ Table of Contents
 3. IEEE P2807.2《金融服务领域知识图谱应用指南》(Guide for Application of Knowledge Graphs for Financial Services)
 
 
+4. [国家标准《信息技术人工智能知识图谱技术框架》征求意见稿发布](https://www.zhuanzhi.ai/vip/c1287c99121b1486f6515deb7f5a6e05)
+
+
 [重磅发布| 《知识图谱选型与实施指南》](https://mp.weixin.qq.com/s/rIcskc5MBadfVWQ5GFy16g)
 
 
