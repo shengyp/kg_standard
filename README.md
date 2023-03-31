@@ -66,6 +66,9 @@ Table of Contents
 [首项知识图谱领域IEEE标准《知识图谱架构》获批发布](https://mp.weixin.qq.com/s/WAGs6E8Xba-iXgPg_KGXxA)
 
 
+[全国信标委人工智能分委会知识图谱工作组2023年第一次会议成功召开](https://mp.weixin.qq.com/s/zQjW32JI9b3uTscNvem2ug)
+
+
 
 ## 在研标准的编制
 
