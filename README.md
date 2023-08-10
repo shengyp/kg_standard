@@ -73,6 +73,10 @@ Table of Contents
 
 
 
+[中国电子技术标准化研究院发布《知识图谱与大模型融合实践研究报告》](https://mp.weixin.qq.com/s/YFPxfryuo5vpBREJr4vxzA)
+
+
+
 ## 在研标准的编制
 
 [我国提出的ISO/IEC知识工程国际标准项目正式获批立项](https://mp.weixin.qq.com/s/wjdLqfv2Fp_9lAqcTv4uAg)
