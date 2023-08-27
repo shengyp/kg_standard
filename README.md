@@ -24,6 +24,9 @@ Table of Contents
 2. [知识图谱标准化白皮书](./report/知识图谱标准化白皮书_2019.pdf). 2019版.
 
 
+3. [语义增强可编程知识图谱SPG (Semantic-enhanced Programmable Graph)白皮书 (v1.0)](https://mdn.alipayobjects.com/huamei_xgb3qj/afts/file/A*SgrORp9OJAMAAAAAAAAAAAAADtmcAQ/%E3%80%8A%E8%AF%AD%E4%B9%89%E5%A2%9E%E5%BC%BA%E5%8F%AF%E7%BC%96%E7%A8%8B%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1SPG%E3%80%8B%E7%99%BD%E7%9A%AE%E4%B9%A6%20v1.0.pdf?survey_id=234249&timestamp=1693153905189&sign=HvMFpSD%2FPfPRkRxBF%2BZdClmV7ziQdBKbKkXGRuvvMlk%3D). 2023.
+
+
 
 ## 知识图谱研究报告
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期.
